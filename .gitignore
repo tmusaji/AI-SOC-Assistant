@@ -1,0 +1,8 @@
+﻿.env
+__pycache__/
+*.pyc
+venv/
+*.db
+*.sqlite
+.DS_Store
+nohup.out
